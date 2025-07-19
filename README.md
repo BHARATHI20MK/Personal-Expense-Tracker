@@ -46,7 +46,7 @@ This is a great project to demonstrate your understanding of **file handling**, 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 - The app starts by asking users to **login or register**
 - After successful login, users can **add expenses** by entering:
