@@ -60,7 +60,6 @@ This is a great project to demonstrate your understanding of **file handling**, 
   - Delete individual entries
   - View monthly reports with total spend
   - See category distribution as visual bar graphs
-
 ---
 
 
