@@ -11,11 +11,6 @@ This is a great project to demonstrate your understanding of **file handling**, 
 - [Features](#-features)
 - [Screenshots](#-screenshots)
 - [How It Works](#-how-it-works)
-- [How to Run](#-how-to-run)
-- [Folder Structure](#-folder-structure)
-- [Future Enhancements](#-future-enhancements)
-- [Author](#-author)
-- [License](#-license)
 
 ---
 
@@ -47,4 +42,27 @@ This is a great project to demonstrate your understanding of **file handling**, 
 ##  Screenshots (Console Output)
 
 <img width="472" height="551" alt="expense_tracker_sample output" src="https://github.com/user-attachments/assets/549b32b7-5eb9-4226-82e5-ebd38afe623c" />
+
+
+---
+
+## ⚙️ How It Works
+
+- The app starts by asking users to **login or register**
+- After successful login, users can **add expenses** by entering:
+  - Amount
+  - Date
+  - Category (e.g., Food, Travel, Shopping)
+  - Note (optional)
+- The data is stored in a text file (`expenses_username.txt`)
+- Users can:
+  - View all past expenses
+  - Delete individual entries
+  - View monthly reports with total spend
+  - See category distribution as visual bar graphs
+
+---
+
+
+
 
